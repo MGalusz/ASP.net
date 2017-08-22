@@ -1,0 +1,6 @@
+c:\users\mgaluszka\documents\visual studio 2013\Projects\Firstproject\Firstproject\bin\Firstproject.dll.config
+c:\users\mgaluszka\documents\visual studio 2013\Projects\Firstproject\Firstproject\bin\Firstproject.dll
+c:\users\mgaluszka\documents\visual studio 2013\Projects\Firstproject\Firstproject\bin\Firstproject.pdb
+c:\users\mgaluszka\documents\visual studio 2013\Projects\Firstproject\Firstproject\obj\Debug\Firstproject.csprojResolveAssemblyReference.cache
+c:\users\mgaluszka\documents\visual studio 2013\Projects\Firstproject\Firstproject\obj\Debug\Firstproject.dll
+c:\users\mgaluszka\documents\visual studio 2013\Projects\Firstproject\Firstproject\obj\Debug\Firstproject.pdb
