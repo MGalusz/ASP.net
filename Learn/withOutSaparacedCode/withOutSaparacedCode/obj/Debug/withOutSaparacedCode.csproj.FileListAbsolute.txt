@@ -1,0 +1,6 @@
+c:\users\mgaluszka\documents\visual studio 2013\Projects\withOutSaparacedCode\withOutSaparacedCode\bin\withOutSaparacedCode.dll.config
+c:\users\mgaluszka\documents\visual studio 2013\Projects\withOutSaparacedCode\withOutSaparacedCode\bin\withOutSaparacedCode.dll
+c:\users\mgaluszka\documents\visual studio 2013\Projects\withOutSaparacedCode\withOutSaparacedCode\bin\withOutSaparacedCode.pdb
+c:\users\mgaluszka\documents\visual studio 2013\Projects\withOutSaparacedCode\withOutSaparacedCode\obj\Debug\withOutSaparacedCode.csprojResolveAssemblyReference.cache
+c:\users\mgaluszka\documents\visual studio 2013\Projects\withOutSaparacedCode\withOutSaparacedCode\obj\Debug\withOutSaparacedCode.dll
+c:\users\mgaluszka\documents\visual studio 2013\Projects\withOutSaparacedCode\withOutSaparacedCode\obj\Debug\withOutSaparacedCode.pdb
