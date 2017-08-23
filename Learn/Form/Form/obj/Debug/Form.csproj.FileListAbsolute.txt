@@ -1,0 +1,6 @@
+c:\users\mgaluszka\documents\visual studio 2013\Projects\Form\Form\bin\Form.dll.config
+c:\users\mgaluszka\documents\visual studio 2013\Projects\Form\Form\bin\Form.dll
+c:\users\mgaluszka\documents\visual studio 2013\Projects\Form\Form\bin\Form.pdb
+c:\users\mgaluszka\documents\visual studio 2013\Projects\Form\Form\obj\Debug\Form.csprojResolveAssemblyReference.cache
+c:\users\mgaluszka\documents\visual studio 2013\Projects\Form\Form\obj\Debug\Form.dll
+c:\users\mgaluszka\documents\visual studio 2013\Projects\Form\Form\obj\Debug\Form.pdb
