@@ -1,0 +1,6 @@
+c:\users\mgaluszka\documents\visual studio 2013\Projects\usersControls\usersControls\bin\usersControls.dll.config
+c:\users\mgaluszka\documents\visual studio 2013\Projects\usersControls\usersControls\bin\usersControls.dll
+c:\users\mgaluszka\documents\visual studio 2013\Projects\usersControls\usersControls\bin\usersControls.pdb
+c:\users\mgaluszka\documents\visual studio 2013\Projects\usersControls\usersControls\obj\Debug\usersControls.csprojResolveAssemblyReference.cache
+c:\users\mgaluszka\documents\visual studio 2013\Projects\usersControls\usersControls\obj\Debug\usersControls.dll
+c:\users\mgaluszka\documents\visual studio 2013\Projects\usersControls\usersControls\obj\Debug\usersControls.pdb
